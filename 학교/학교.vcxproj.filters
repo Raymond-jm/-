@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20220311수업.cpp">
+    <ClCompile Include="20220413수업.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="20220311빌드연습.cpp">
@@ -30,13 +30,67 @@
     <ClCompile Include="20220318TA.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="C_chap.3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="20220323수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="20220325TA.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220330수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220330꿀팁.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220401TA.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220406.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C언어책.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Starbucks.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mission.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220427수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\문서\카카오톡 받은 파일\20220420수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220429TA.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220504수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tic tac toe.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ttt.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220511수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220513TA.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220518수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220530.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220525.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습장.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

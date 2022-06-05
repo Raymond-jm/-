@@ -144,7 +144,7 @@ int main() {
 }
 #endif
 
-//형변환
+//XOR 암호화
 #if 1
 int main() {
 
@@ -163,3 +163,18 @@ int main() {
 }
 #endif
 
+//형변환
+#if 0
+int main() {
+
+	double data;
+	data = 5 / 4;
+
+	//data = (double)5 / 4;
+	//data = 5.0 / 4;
+	//data = 5.0 / 4.0;
+	printf("%f", data);
+
+	return 0;
+}
+#endif
